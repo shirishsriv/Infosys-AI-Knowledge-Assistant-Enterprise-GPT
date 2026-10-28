@@ -5,6 +5,7 @@
 ## 🔗 Application Links
 
 - **Live Application:** https://infosys-ai-knowledge-assistant-ente-sandy.vercel.app
+- **Backup Application:** https://infosys-gpt-vercel-railway-beige.vercel.app
 - **Demo Video:** https://drive.google.com/file/d/1JHD7myei55j96a_JgsxMKQ4PmuQZbZIM/view?usp=drive_link
 
 An enterprise document-based AI chatbot built using **Retrieval-Augmented Generation (RAG)**.  
